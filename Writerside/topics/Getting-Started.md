@@ -10,5 +10,5 @@ It may be possible to create a plugin with Javascript (because Kotlin is compati
 
 We strongly recommend you to utilize Gradle instead of Maven.
 
-In this section, we will consider that you already know Kotlin.
+In this section, we will consider that you already know Kotlin and some basic concept of Discord.
 If you only know Java, Kotlin is a superset of Java and is easily transposable to Java.
