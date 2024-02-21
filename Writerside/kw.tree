@@ -8,5 +8,8 @@
     <toc-element topic="Presentation.md"/>
     <toc-element topic="Getting-Started.md">
         <toc-element topic="Installation.md"/>
+        <toc-element topic="Listen-to-Events.md">
+        </toc-element>
+        <toc-element topic="Creating-commands.md"/>
     </toc-element>
 </instance-profile>
