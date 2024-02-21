@@ -1,6 +1,6 @@
 # Creating commands
 
-Kordify provide a very simple API to create slash commands.
+Kordify provides a very simple API to create slash commands.
 
 ## `Command` class
 
